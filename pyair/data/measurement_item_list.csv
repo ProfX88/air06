@@ -1,0 +1,16 @@
+﻿type,Unit,Description
+AQI,N/A,AQI score
+PM2.5,mg/m3,PM2.5 concentration as average in this hour
+PM2.5_24h,mg/m3,PM2.5 concentration as the 24h moving average
+PM10,mg/m3,PM10 concentration as average of this hour
+PM10_24h,mg/m3,PM10 concentration as the 24h moving average
+SO2,mg/m3,SO2 concentration  as average in this hour 
+SO2_24h,mg/m3,SO2 concentration as the 24h moving average
+NO2,mg/m3,NO2 concentration as average in this hour
+NO2_24h,mg/m3,NO2 concentration as the 24h moving average
+O3,mg/m3,O3 concentration as 1h average
+O3_24h,mg/m3,the maximum O3 concentration in 24 hours
+O3_8h,mg/m3,O3 concentration as the moving average per 8h
+O3_8h_24h,mg/m3,the maximum 8h moving average in 24 hours
+CO,mg/m3,CO concentration as 1h average
+CO_24h,mg/m3,CO concentration as the 24h moving average
